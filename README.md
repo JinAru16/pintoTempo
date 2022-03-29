@@ -1,1 +1,1 @@
-# pintoTempo
+# Pinto-Server
